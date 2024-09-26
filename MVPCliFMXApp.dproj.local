@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/09/25 23:29:05.284,=C:\Users\nerasjr\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/25 23:30:15.023,D:\Projetos\ensis\mvp-clifmx\ufmPrincipal.pas=C:\Users\nerasjr\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/25 23:30:15.023,D:\Projetos\ensis\mvp-clifmx\ufmPrincipal.fmx=C:\Users\nerasjr\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2024/09/25 23:30:29.906,D:\Projetos\ensis\mvp-clifmx\MVPCliFMXApp.dproj=C:\Users\nerasjr\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/09/25 23:37:51.738,=D:\Projetos\ensis\mvp-clifmx\udmPrincipal.pas</Transaction>
+    <Transaction>2024/09/26 00:17:41.901,=D:\Projetos\ensis\mvp-clifmx\untCliente.pas</Transaction>
+    <Transaction>2024/09/26 00:26:51.178,=D:\Projetos\ensis\mvp-clifmx\Unit1.pas</Transaction>
+    <Transaction>2024/09/26 00:27:09.211,D:\Projetos\ensis\mvp-clifmx\untClientesController.pas=D:\Projetos\ensis\mvp-clifmx\Unit1.pas</Transaction>
+    <Transaction>2024/09/26 01:08:27.894,=D:\Projetos\ensis\mvp-clifmx\untUtils.pas</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile Android="emulator-5554" Android64="emulator-5554"/>
+  </ActiveMobileDevice>
+</BorlandProject>
